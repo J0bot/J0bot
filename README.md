@@ -17,4 +17,4 @@ I love robots and stuff...
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://en.wikipedia.org/wiki/php)
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />](https://en.wikipedia.org/wiki/Unity_(game_engine))
-[<img align="left" alt="powershell" width="26px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" />](https://en.wikipedia.org/wiki/powershell))
+[<img align="left" alt="powershell" width="26px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" />](https://en.wikipedia.org/wiki/powershell)
