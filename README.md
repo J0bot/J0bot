@@ -4,7 +4,7 @@ I love robots and stuff...
 
 [My Website](https://bit.ly/3DG49Rr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0bot)](https://github.com/anuraghazra/github-readme-stats)
+![J0bot's github stats](https://github-readme-stats.vercel.app/api?username=j0bot&show_icons=true)
 
 
 ### Languages I know
