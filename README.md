@@ -4,6 +4,9 @@ I love robots and stuff...
 
 [My Website](https://bit.ly/3DG49Rr)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0bot)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Languages I know
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/css)
