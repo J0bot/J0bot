@@ -1,6 +1,8 @@
-### Hello I guess 👋  
+### Hello I\'m J0bot👋  
 
-I love robots and stuff...  
+Embedded systems student at HEIG-VD
+
+I love robots and stuff...
 
 [My Website](https://bit.ly/3DG49Rr)
 
